@@ -1,5 +1,5 @@
 {
-  "name": "react-autocomplete",
+  "name": "react-autocomplete-custom-input",
   "version": "1.5.6",
   "description": "Accessible, extensible, Autocomplete for React.js",
   "main": "./build/lib/Autocomplete.js",
